@@ -1,0 +1,3 @@
+The improvement which EMI offers on proficiency, attitudes, and teaching content
+
+Since EMI appeared as a phenomenon in the countries' education system that uses English as a foreign language, it has become more prevalent worldwide. One reason for its popularity is the belief that EMI can make students more qualified in English abilities, like their proficiency and attitudes in the EMI learning process. Do this belief valid? After concluding several conducted research, we can claim that this belief is almost right. EMI does improve students' English proficiency, their attitude toward English learning, and at the same time delivers teaching content efficiently.
