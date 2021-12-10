@@ -1,0 +1,14 @@
+ - The issue:
+   -  Whether class size is a major factor in contributing to academic success. I know because it appears in the critical position of the first paragraph.
+ - The statement of position: 
+   - Class size reduction is a major factor in contributing to academic success particularly in early education in culturally diverse countries. I know because it lies on the tail of the first paragraph
+ - The preview of arguments:
+   - Features of smaller class teaching, such as class participation, more individualized teaching, and less disruption, are likely to lead to higher achievement. I know because it introduce the item will be discussed in the essay.
+ - The (main) arguments:
+   - Class size reduction has a remarkable effect on students’ academic success, on elementary levels. I know because it is the first argument
+ - Any opposing viewpoints (counter-arguments):
+   - Asian children do so well despite being in large classes. I know because it is not defense the author's opinion.
+ - Refutations:
+   - It is Japan’s culture that causes higher achievement rather that large class size. I know because it analyzes the opposing viewpoints and points out it's narrow suitable area.
+ - A reiteration of the statement of position. 
+   - This essay has examined that class size reduction is a core contribution to academic success based on research projects which were mainly conducted on elementary level students. I know because it exists on the first sentence of the last paragraph.

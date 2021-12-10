@@ -1,0 +1,10 @@
+ - A
+   - i. instructional medium was found to have a statistically significant effect on the cognitive complexity of both teacher questions and student responses.
+   - ii.
+     - Language practice in the focal EMI program were constrained by the English proficiency of the professors and students.
+     - medium of instruction was not a statistically significant predictor of CET Band 6 scores,CET Band 4 scores were found to be the only significant predictor of out-of-class English use anxiety
+ - B
+   - i.
+     - teacher-fronted learning activities (i.e., instructor-lecturing/studentlistening and instructor-demonstrating/student-listening) accounted for 95% of the instructional time, and more than two-thirds of such activities were conducted exclusively in Chinese
+  - ii.
+    - “there was almost no response from the students, nor did the teacher expect a response from the students,”
