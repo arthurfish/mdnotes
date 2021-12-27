@@ -1,9 +1,9 @@
-Phone:
+# Collected from Matthew
+Device:
 -
- - Phonetroller - Visual Representations of Fingers for Precise Touch Input with Mobile Phones in VR
+ - (Phone) Phonetroller - Visual Representations of Fingers for Precise Touch Input with Mobile Phones in VR
  - https://dl.acm.org/doi/abs/10.1145/3411764.3445583 
 
-Device:
 -
  - FingerTrak - Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes Captured by Miniature Thermal Cameras on Wrist
  - https://dl.acm.org/doi/abs/10.1145/3397306 
