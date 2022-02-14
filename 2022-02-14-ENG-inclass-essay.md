@@ -1,0 +1,14 @@
+Arthurfish (Gao Chuxuan)
+W15 Opinion Paragraph
+
+Paragraph 1
+    I truly hate the feeling for sleep, because it always make my time wasted. I always have a big number of things should be done, such as language learning, computer technics, or just take a shower or doing sports. I have tried a bundle of solutions, but they seems not make sense. Drinking tea before sleep, wearing coat when sleep, or even prepare morning coffee, but all of them failed. So I hate the feeling for sleep, for it wasting the time, for it beat against my confidence to overcome every difficulties.
+
+Paragraph 2
+    This semester's English writing class makes me feel better than the last one, because in the last one writing class, professor and students were comunicating online! I don't means I hate online course -- I learn a lot from web education before I attend WKU. However, I think language lessons being online is not a good idea. Online course sometimes make me feel less participation, and our often be destracted. In contrast, Offline courses can increase our focus level to the teaching content, give a more tight connect between teacher and student. Will I take more carefulness or participation in the the class? I guess I should.
+
+Paragraph 3
+    From my point of view, difference between Chinese education system and Western style of education, is like the the difference between Soviet and USA. The target of Chinese education system is to make society needed workers, such as engineer or electronic factory workers. But Western style of eudcation is in order to build modern people with thinking, wide sight horizen, diversity culture. Chinese prefer the economic effect more than the intrinsical property of education, so they consider eduction as a tool to earn money more than a way to be a real man. From my own experience, WKU's lesson is more interesting than the lessons I taked in high school or senior school. I always feel the class is worser than just recite textbook. In WKU, I just know what the class truely should be.
+
+Paragraph 4
+    I admire a blogger named "Program Think". I always read his poster when I am in high school. In the bolg, he teach us political knowledge, normal thinking trapper, and how to upgrade our personal abilities. In Chinese, talking political or social hot spot is extremely dangerous. He teach us the technics which can help us to be more safety in China. I alway feel confused when I am face to the ocean of true or false information. This blogger not just share his knowledge, but also his courage, devoting behind the world. I want to be such knowledgeable and brave man like him. Although it need time, I will dash ahead.
