@@ -1,0 +1,7 @@
+Rys(2014) demonstrated that “The Hunger Game” like other popular movie products, started as a book. That book was published in 2008, other books with the same author were published sequentially, and all looks very successful. The author, Collins, jumps into the queue of Amazon’s “Kindle Million Club” by her brilliant books.
+
+WikiLeaks seems as an excellent source of news, but few journalism regrets its status. For Julian Assange’s words, WikiLeaks got the arguments by its restrain action for abusers, and he thinks it’s not bad. WikiLeaks’s property of anonymous, which is the counterpart of journalism, let it become a median with a strange mixture of information leaker, newsmaker, self-styled journalist. (Rys & Sebranek, 2014)
+
+Rys and Sebranek(2014) demonstrated that primary source includes diaries, people, or event, which is direct to the topic you want to research. If you want to get the primary source of information, observations, interviews, surveys, experiments or analyzing original documents are good ideas.
+
+2009’s September, Havana’s Plaza de la Revolucion was filled with Latin pop, rock, and salsa rhythms. More than one million people came together to celebrate the “Paz Sin Frinteras II” (“Peace Without Borders II). Artists from Cuba, Puerto Rico, Ecuador and Venezuela, all played at the concert. One of the attendants Juanes explained that peace should be spread by music, songs, and dance. They should be heard by they are citizens. (Rys & Sebranek, 2014)
