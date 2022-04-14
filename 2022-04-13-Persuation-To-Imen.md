@@ -1,0 +1,20 @@
+Dear Professor,
+
+I am Arthur(Gao Chuxuan), the student who talked with you about the "analogy" morning. I feel sorry to bother you with these direct and emotional words; they are what I am truly thinking. Hope you will not mind.
+
+Can we just put an analogy on mathematics without knowing the essence? I think the answer is not. First of all, we don't know its correctness. It's very obvious that we can't just add the letter "c" in the quadratic equation root formula to solve the cubic equation; We can't just simply change the formula "n(n+1)/2" to "[n(n+1)/2]^2" to calculate the sum of squares; We can't even put on the formula "a_n = c_1 * x_1^n + c_2 * x_2^n" if x_1 = x_2 when we are solving the two order recurrence relation. Mathematics is more like a complicated swiss watch; each tiny change may cause unexpected consequences. So I think if we don't know the essence of one object, we can't simply solve it by putting on some similar ones' solution unless we only want to make a guess. It violates the rationality spirit of mathematics.
+
+On the mid-term exam problem nine, you seemed to want us to "guess" an explicit solution of a three-order recurrence relation by the analogy of the procedure of solving the two-order recurrence relation. Honestly, I can understand the idea that making a reasonable guess in mathematics is a needed ability. However, I think it's inappropriate to put such a problem without a prompt that "Make a guess from what we have learned from two-order recurrence relation." I can't find any knowledge in my brain to reason this problem. This morning I asked the students around, and none of them found more class notes about recurrence relation knowledge except the solution for the two orders'.
+
+The analogy to solve problems can even be dangerous. Consider a situation: If we see a poisonous mushroom, but we don't get related knowledge, can we eat it with no worries by applying the analogy that, because some black mushrooms can eat, these blue mushrooms also can eat similarly. Isn't it ridiculous?
+
+You have said we will obtain more grades if we devote more time to exercising. However, problem nine seems to punish the students who spend more time on mathematics. Before the mid-term exam, I do lots of exercises from this textbook. However, I encountered some recurrence-solving problems, which are error-prone to put on analogy logic. For example, the recurrence relations about "a_k = 3 * a_{k-1} + 3*k + 2" is one of them. My wrong closed formula generates even five numbers that are the same as the original equation, but the remaining generated number can't fit the original equation. Some of my classmates solved problem nine and checked their answer's correctness by validating the head ones of the generated numbers. But I know if I just check the first ones without knowing the essence of the problem, the analogy can't be proved right. Although I can't reason this problem by what I have learned, I know an error-prone guess without an explicit prompt violated the rationality spirit of mathematics. So I have to leave it blank.
+
+Should the mindless analogy be awarded? Should rigorous reasoning be punished?
+
+Honestly, I feel frustrated and angry that most of my hard work was in vain in the mid-term exam. I once burned coffee in the moonlight to fight against the variant of Hanoi towers; I once lay in bed without drowsiness thinking about the concept of "strong induction." Tears almost fell when I found I couldn't reason problem nine in the exam. Why is my preparation useless for the exam? Why my rigorous thinking is defeated by mindless analogy? Should I spend more time in mathematics next time?
+
+Sometimes I feel a bit lonely and helpless to leave my hometown. What about the feeling of leaving the motherland? I can't imagine such coagulate missing. We both are the people who leave our homes for knowledge. From this perspective of view, we are travelers meeting in the same place. We can share more kindness and friendliness between us; it actually benefits both of us.
+
+Best Regards.
+Arthur (Gao Chuxuan)
