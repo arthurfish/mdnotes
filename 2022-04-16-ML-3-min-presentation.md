@@ -1,0 +1,7 @@
+ML Presentation
+
+Hello everyone, my program is a movie recommendation system. It was something like, If you input a movie's name, like "Revengers", it will produce: Iron man or Caption America. This project is based on the similarity between each film. We have an assumption that people will be attracted by movies which are similar to what they have watched. The similarity between each film is the core concept of our project.
+
+Here are the details: We use the TMDB 5 thousand movies dataset and summaries of their plot. For text features, such as genres, keywords, and summary of the story, we make all the letters lowercase, remove all question marks, commas or periods, remove all stopwords "the" "of" "to," etc. Removing tense suffix: "s", "ing", "ed". Now the text is easy to be computed. For number features, like movies' release year or movies' runtime. For the categorical purpose, we discretize them. For example, the year 1953 will be transferred to 1950. For other features like the company name or director name, we just left them untouched. Till now, we can apply the vectorization procedure.
+
+We vectorized each movie by the importance measure of each word with the algorithm "TF-IDF". And assign proper weights on each feature. Then calculate the angle between each vector, representing the similarity between each film. Then, if you input a movie's name, it will produce the most similar movies' title. That's all, thank you.
