@@ -26,5 +26,12 @@
                 ]
             }
         }
+    ],
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "2022-05-19-ENG-reflexive-essay.md"
+        }
     ]
 }
