@@ -59,3 +59,18 @@ Recognizing bias is an important part of UX research and UX design in general. I
 - How do you plan to reduce bias in your own UX research?
 
 Maybe I am lost in so many different kinds of bias. So I will try to be a monk when I am conducting research. I should care every race with people and someone easy to be ignored. Can the religious awareness help in the research without bias? To achieve this goal I should be a saint. To reduce the bias, I think I will ask my colleagues to help me reflex on my mistakes about bias when I doing research. Maybe I will also try to define the people I will not survey explicit to avoid implicit bais.
+
+Design a boquet preview app for a trendy florist
+
+Activity: Define your research goals and questions
+
+Goals:
+- What the importance do the customers think about the bouquet app.
+- Will an app can help them buy flowers easier?
+- Do they like buying flowers online?
+(I need empathy toward customers frustration)
+Target audience:
+- Students
+- White-collar works
+- Old man
+- Well-educated middle-aged man
